@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>静态文件</title>
+    <script src="/static/js/jquery-1.12.4.min.js"></script>
+
+    <script>
+
+        alert('哈哈')
+
+    </script>
+</head>
+<body>
+<img src="/static/imgs/mm17.jpg" WIDTH="150" HEIGHT="150">
+<img src="/abc/imgs/mm17.jpg" WIDTH="150" HEIGHT="150">
+
+{% load static from staticfiles %}
+<img src="{% static 'imgs/mm17.jpg' %}" alt="">
+</body>
+</html>

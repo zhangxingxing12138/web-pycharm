@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>省市区选择</title>
+    <script src="/static/js/jquery-1.12.4.min.js"></script>
+
+    <script>
+
+        $(function () {
+            pro = $('#pro')
+            $.get('/pro/', function (d) {
+                $.each(d.data, function (index, p) {
+                    pro.append("<option value=" + p.id + ">" + p.name + "</option>")
+                })
+            })
+
+            $('#pro').change(function () {
+                $('#city').empty().append('<option value="0">请选择市</option>')
+                $("#area").empty().append('<option value="0">请选择区</option>')
+                $.get('/city/' + $(this).val(), function (d) {
+                    $.each(d.data, function (index, c) {
+                        $('#city').append("<option value=" + c.id + ">" + c.name + "</option>")
+                    })
+                })
+
+            })
+
+            $('#city').change(function () {
+                $("#area").empty().append('<option value="0">请选择区</option>')
+                $.get('/city/' + $(this).val(), function (d) {
+                    $.each(d.data, function (index, a) {
+                        $('#area').append("<option value=" + a.id + ">" + a.name + "</option>")
+                    })
+                })
+
+            })
+
+        })
+
+
+    </script>
+</head>
+<body>
+
+<select id="pro">
+    <option value="0">请选择省</option>
+
+</select>
+
+<select id="city">
+    <option value="0">请选择市</option>
+
+</select>
+<select id="area">
+    <option value="0">请选择区</option>
+
+</select>
+
+</body>
+</html>

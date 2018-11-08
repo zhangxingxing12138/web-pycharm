@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>反向解析</title>
+</head>
+<body>
+
+<a href="/fan1/">点击1</a>
+
+<a href="/booktest/fan2/">点击2</a>
+{#无参反向解析#}
+<a href="{% url 'booktest:fan2' %}">点击3</a>
+{#有参反向解析#}
+<a href="{% url 'booktest:fan3' 2 3 %}">点击4</a>
+{##关键字参数#}
+<a href="{% url 'booktest:fan4' id=2 id1=4 %}">点击5</a>
+</body>
+</html>
+
+
+{#http://127.0.0.1:8000/fan/#}
+{##}
+{#http://127.0.0.1:8000/booktest/index8/fan/#}

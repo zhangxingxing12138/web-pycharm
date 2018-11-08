@@ -1,0 +1,1072 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="049848f0-54f1-4804-b633-a84760c8c62f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../MyBlog/.idea/MyBlog.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBlog/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBlog/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBlog/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBlog/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBlog/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBlog/1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBlog/MyBlog/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBlog/MyBlog/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBlog/MyBlog/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBlog/MyBlog/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBlog/blogapp/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBlog/blogapp/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBlog/blogapp/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBlog/blogapp/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBlog/blogapp/migrations/0002_auto_20181029_0216.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBlog/blogapp/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBlog/blogapp/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBlog/blogapp/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBlog/blogapp/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBlog/blogapp/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBlog/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBlog/static/admin/css/base.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBlog/static/admin/css/changelists.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBlog/static/admin/css/dashboard.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBlog/static/admin/css/fonts.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBlog/static/admin/css/forms.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBlog/static/admin/css/login.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBlog/static/admin/css/rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBlog/static/admin/css/widgets.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBlog/static/admin/fonts/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBlog/static/admin/fonts/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBlog/static/admin/fonts/Roboto-Bold-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBlog/static/admin/fonts/Roboto-Light-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBlog/static/admin/fonts/Roboto-Regular-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBlog/static/admin/img/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBlog/static/admin/img/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBlog/static/admin/img/calendar-icons.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBlog/static/admin/img/gis/move_vertex_off.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBlog/static/admin/img/gis/move_vertex_on.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBlog/static/admin/img/icon-addlink.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBlog/static/admin/img/icon-alert.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBlog/static/admin/img/icon-calendar.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBlog/static/admin/img/icon-changelink.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBlog/static/admin/img/icon-clock.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBlog/static/admin/img/icon-deletelink.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBlog/static/admin/img/icon-no.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBlog/static/admin/img/icon-unknown-alt.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBlog/static/admin/img/icon-unknown.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBlog/static/admin/img/icon-yes.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBlog/static/admin/img/inline-delete.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBlog/static/admin/img/search.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBlog/static/admin/img/selector-icons.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBlog/static/admin/img/sorting-icons.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBlog/static/admin/img/tooltag-add.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBlog/static/admin/img/tooltag-arrowright.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBlog/static/admin/js/SelectBox.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBlog/static/admin/js/SelectFilter2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBlog/static/admin/js/actions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBlog/static/admin/js/actions.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBlog/static/admin/js/admin/DateTimeShortcuts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBlog/static/admin/js/admin/RelatedObjectLookups.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBlog/static/admin/js/calendar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBlog/static/admin/js/cancel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBlog/static/admin/js/change_form.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBlog/static/admin/js/collapse.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBlog/static/admin/js/collapse.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBlog/static/admin/js/core.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBlog/static/admin/js/inlines.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBlog/static/admin/js/inlines.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBlog/static/admin/js/jquery.init.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBlog/static/admin/js/popup_response.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBlog/static/admin/js/prepopulate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBlog/static/admin/js/prepopulate.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBlog/static/admin/js/prepopulate_init.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBlog/static/admin/js/timeparse.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBlog/static/admin/js/urlify.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBlog/static/admin/js/vendor/jquery/LICENSE-JQUERY.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBlog/static/admin/js/vendor/jquery/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBlog/static/admin/js/vendor/jquery/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBlog/static/admin/js/vendor/xregexp/LICENSE-XREGEXP.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBlog/static/admin/js/vendor/xregexp/xregexp.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBlog/static/admin/js/vendor/xregexp/xregexp.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBlog/static/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBlog/static/css/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBlog/static/css/nprogress.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBlog/static/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBlog/static/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBlog/static/fonts/TaurusNormal.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBlog/static/fonts/TaurusNormal.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBlog/static/fonts/TaurusNormal.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBlog/static/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBlog/static/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBlog/static/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBlog/static/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBlog/static/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBlog/static/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBlog/static/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBlog/static/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBlog/static/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBlog/static/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBlog/static/images/Thumbs.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBlog/static/images/ad.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBlog/static/images/backtop.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBlog/static/images/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBlog/static/images/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBlog/static/images/loading.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBlog/static/images/news-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBlog/static/imgs/banner/b1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBlog/static/imgs/banner/b2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBlog/static/imgs/post/mm17.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBlog/static/imgs/post/mm17_YRtrIzQ.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBlog/static/imgs/post/u942895670197089830fm173app25fJPEG.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBlog/static/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBlog/static/js/html5shiv.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBlog/static/js/jquery-1.11.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBlog/static/js/jquery-2.1.4.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBlog/static/js/jquery.ias.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBlog/static/js/jquery.lazyload.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBlog/static/js/nprogress.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBlog/static/js/respond.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBlog/static/js/scripts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBlog/static/js/selectivizr-min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBlog/templates/404.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBlog/templates/_pagination.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBlog/templates/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBlog/templates/forpwd.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBlog/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBlog/templates/list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBlog/templates/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBlog/templates/newpwd.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBlog/templates/register.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBlog/templates/show.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBlog/userapp/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBlog/userapp/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBlog/userapp/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBlog/userapp/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBlog/userapp/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBlog/userapp/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBlog/userapp/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBlog/userapp/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBlog/uwsgi.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test7/.idea/Test7.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test7/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test7/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test7/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test7/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test7/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test7/BookTest/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test7/BookTest/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test7/BookTest/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test7/BookTest/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test7/BookTest/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test7/BookTest/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test7/BookTest/templatetags/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test7/BookTest/templatetags/filters.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test7/BookTest/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test7/BookTest/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test7/BookTest/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test7/Test7/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test7/Test7/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test7/Test7/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test7/Test7/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test7/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test7/templates/booktest/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test7/templates/booktest/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test7/templates/booktest/index2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test7/templates/booktest/index3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test7/templates/booktest/index4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test7/templates/booktest/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/TestDRF.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestDRF/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestDRF/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestDRF/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestDRF/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drfapp/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drfapp/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drfapp/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drfapp/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drfapp/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drfapp/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drfapp/serializer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drfapp/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drfapp/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drfapp/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Try_Drf/.idea/Try_Drf.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Try_Drf/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Try_Drf/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Try_Drf/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Try_Drf/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Try_Drf/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Try_Drf/Try_Drf/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Try_Drf/Try_Drf/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Try_Drf/Try_Drf/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Try_Drf/Try_Drf/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Try_Drf/app01/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Try_Drf/app01/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Try_Drf/app01/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Try_Drf/app01/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Try_Drf/app01/migrations/0002_publisher_operator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Try_Drf/app01/migrations/0003_book.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Try_Drf/app01/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Try_Drf/app01/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Try_Drf/app01/permissions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Try_Drf/app01/serializers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Try_Drf/app01/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Try_Drf/app01/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Try_Drf/app01/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Try_Drf/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Try_Drf/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/booktest/migrations/0004_goodsinfo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/booktest/migrations/0005_blog.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/booktest/search_indexes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/booktest/tasks.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/media/upload/2018/10/25/mm17.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/langs/ar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/langs/az.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/langs/be.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/langs/bg.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/langs/bn.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/langs/br.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/langs/bs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/langs/ca.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/langs/ch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/langs/cn.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/langs/cs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/langs/ct.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/langs/cy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/langs/da.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/langs/de.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/langs/dv.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/langs/el.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/langs/en.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/langs/eo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/langs/es.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/langs/et.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/langs/eu.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/langs/fa.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/langs/fi.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/langs/fr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/langs/gl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/langs/gu.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/langs/he.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/langs/hi.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/langs/hr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/langs/hu.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/langs/hy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/langs/ia.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/langs/id.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/langs/is.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/langs/it.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/langs/ja.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/langs/ka.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/langs/kb.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/langs/kk.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/langs/kl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/langs/km.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/langs/ko.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/langs/lb.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/langs/lt.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/langs/lv.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/langs/mk.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/langs/ml.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/langs/mn.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/langs/ms.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/langs/my.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/langs/nb.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/langs/nl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/langs/nn.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/langs/no.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/langs/pl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/langs/ps.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/langs/pt.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/langs/ro.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/langs/ru.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/langs/sc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/langs/se.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/langs/si.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/langs/sk.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/langs/sl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/langs/sq.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/langs/sr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/langs/sv.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/langs/sy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/langs/ta.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/langs/te.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/langs/th.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/langs/tn.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/langs/tr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/langs/tt.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/langs/tw.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/langs/uk.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/langs/ur.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/langs/vi.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/langs/zh-cn.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/langs/zh-tw.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/langs/zh.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/langs/zu.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/about.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/anchor.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/charmap.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/color_picker.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/editor_template.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/editor_template_src.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/image.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/img/colorpicker.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/img/flash.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/img/icons.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/img/iframe.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/img/pagebreak.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/img/quicktime.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/img/realmedia.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/img/shockwave.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/img/trans.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/img/video.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/img/windowsmedia.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/js/about.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/js/anchor.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/js/charmap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/js/color_picker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/js/image.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/js/link.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/js/source_editor.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/langs/ar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/langs/ar_dlg.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/langs/az.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/langs/az_dlg.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/langs/be.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/langs/be_dlg.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/langs/bg.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/langs/bg_dlg.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/langs/bn.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/langs/bn_dlg.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/langs/br.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/langs/br_dlg.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/langs/bs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/langs/bs_dlg.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/langs/ca.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/langs/ca_dlg.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/langs/ch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/langs/ch_dlg.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/langs/cn.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/langs/cn_dlg.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/langs/cs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/langs/cs_dlg.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/langs/ct.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/langs/ct_dlg.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/langs/cy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/langs/cy_dlg.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/langs/da.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/langs/da_dlg.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/langs/de.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/langs/de_dlg.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/langs/dv.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/langs/dv_dlg.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/langs/el.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/langs/el_dlg.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/langs/en.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/langs/en_dlg.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/langs/eo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/langs/eo_dlg.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/langs/es.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/langs/es_dlg.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/langs/et.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/langs/et_dlg.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/langs/eu.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/langs/eu_dlg.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/langs/fa.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/langs/fa_dlg.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/langs/fi.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/langs/fi_dlg.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/langs/fr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/langs/fr_dlg.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/langs/gl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/langs/gl_dlg.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/langs/gu.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/langs/gu_dlg.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/langs/he.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/langs/he_dlg.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/langs/hi.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/langs/hi_dlg.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/langs/hr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/langs/hr_dlg.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/langs/hu.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/langs/hu_dlg.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/langs/hy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/langs/hy_dlg.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/langs/ia.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/langs/ia_dlg.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/langs/id.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/langs/id_dlg.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/langs/is.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/langs/is_dlg.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/langs/it.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/langs/it_dlg.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/langs/ja.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/langs/ja_dlg.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/langs/ka.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/langs/ka_dlg.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/langs/kb.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/langs/kb_dlg.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/langs/kk.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/langs/kk_dlg.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/langs/kl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/langs/kl_dlg.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/langs/km.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/langs/km_dlg.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/langs/ko.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/langs/ko_dlg.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/langs/lb.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/langs/lb_dlg.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/langs/lt.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/langs/lt_dlg.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/langs/lv.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/langs/lv_dlg.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/langs/mk.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/langs/mk_dlg.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/langs/ml.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/langs/ml_dlg.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/langs/mn.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/langs/mn_dlg.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/langs/ms.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/langs/ms_dlg.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/langs/my.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/langs/my_dlg.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/langs/nb.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/langs/nb_dlg.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/langs/nl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/langs/nl_dlg.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/langs/nn.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/langs/nn_dlg.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/langs/no.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/langs/no_dlg.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/langs/pl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/langs/pl_dlg.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/langs/ps.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/langs/ps_dlg.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/langs/pt.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/langs/pt_dlg.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/langs/ro.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/langs/ro_dlg.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/langs/ru.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/langs/ru_dlg.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/langs/sc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/langs/sc_dlg.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/langs/se.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/langs/se_dlg.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/langs/si.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/langs/si_dlg.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/langs/sk.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/langs/sk_dlg.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/langs/sl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/langs/sl_dlg.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/langs/sq.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/langs/sq_dlg.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/langs/sr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/langs/sr_dlg.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/langs/sv.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/langs/sv_dlg.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/langs/sy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/langs/sy_dlg.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/langs/ta.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/langs/ta_dlg.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/langs/te.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/langs/te_dlg.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/langs/th.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/langs/th_dlg.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/langs/tn.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/langs/tn_dlg.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/langs/tr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/langs/tr_dlg.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/langs/tt.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/langs/tt_dlg.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/langs/tw.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/langs/tw_dlg.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/langs/uk.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/langs/uk_dlg.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/langs/ur.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/langs/ur_dlg.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/langs/vi.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/langs/vi_dlg.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/langs/zh-cn.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/langs/zh-cn_dlg.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/langs/zh-tw.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/langs/zh-tw_dlg.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/langs/zh.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/langs/zh_dlg.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/langs/zu.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/langs/zu_dlg.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/link.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/shortcuts.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/skins/default/content.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/skins/default/dialog.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/skins/default/img/buttons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/skins/default/img/items.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/skins/default/img/menu_arrow.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/skins/default/img/menu_check.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/skins/default/img/progress.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/skins/default/img/tabs.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/skins/default/ui.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/skins/highcontrast/content.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/skins/highcontrast/dialog.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/skins/highcontrast/ui.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/skins/o2k7/content.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/skins/o2k7/dialog.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/skins/o2k7/img/button_bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/skins/o2k7/img/button_bg_black.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/skins/o2k7/img/button_bg_silver.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/skins/o2k7/ui.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/skins/o2k7/ui_black.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/skins/o2k7/ui_silver.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/advanced/source_editor.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/simple/editor_template.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/simple/editor_template_src.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/simple/img/icons.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/simple/langs/ar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/simple/langs/az.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/simple/langs/be.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/simple/langs/bg.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/simple/langs/bn.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/simple/langs/br.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/simple/langs/bs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/simple/langs/ca.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/simple/langs/ch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/simple/langs/cn.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/simple/langs/cs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/simple/langs/ct.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/simple/langs/cy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/simple/langs/da.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/simple/langs/de.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/simple/langs/dv.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/simple/langs/el.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/simple/langs/en.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/simple/langs/eo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/simple/langs/es.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/simple/langs/et.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/simple/langs/eu.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/simple/langs/fa.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/simple/langs/fi.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/simple/langs/fr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/simple/langs/gl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/simple/langs/gu.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/simple/langs/he.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/simple/langs/hi.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/simple/langs/hr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/simple/langs/hu.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/simple/langs/hy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/simple/langs/ia.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/simple/langs/id.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/simple/langs/is.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/simple/langs/it.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/simple/langs/ja.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/simple/langs/ka.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/simple/langs/kb.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/simple/langs/kk.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/simple/langs/kl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/simple/langs/km.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/simple/langs/ko.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/simple/langs/lb.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/simple/langs/lt.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/simple/langs/lv.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/simple/langs/mk.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/simple/langs/ml.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/simple/langs/mn.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/simple/langs/ms.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/simple/langs/my.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/simple/langs/nb.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/simple/langs/nl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/simple/langs/nn.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/simple/langs/no.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/simple/langs/pl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/simple/langs/ps.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/simple/langs/pt.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/simple/langs/ro.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/simple/langs/ru.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/simple/langs/sc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/simple/langs/se.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/simple/langs/si.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/simple/langs/sk.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/simple/langs/sl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/simple/langs/sq.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/simple/langs/sr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/simple/langs/sv.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/simple/langs/sy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/simple/langs/ta.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/simple/langs/te.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/simple/langs/th.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/simple/langs/tn.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/simple/langs/tr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/simple/langs/tt.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/simple/langs/tw.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/simple/langs/uk.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/simple/langs/ur.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/simple/langs/vi.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/simple/langs/zh-cn.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/simple/langs/zh-tw.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/simple/langs/zh.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/simple/langs/zu.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/simple/skins/default/content.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/simple/skins/default/ui.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/simple/skins/o2k7/content.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/simple/skins/o2k7/img/button_bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/themes/simple/skins/o2k7/ui.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/static/js/tiny_mce_src.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/templates/booktest/editor.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/templates/booktest/index4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/templates/booktest/index5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/templates/booktest/index8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/templates/booktest/query.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/templates/search/indexes/booktest/goodsinfo_text.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/templates/search/search.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/whoosh_index/MAIN_WRITELOCK" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/whoosh_index/MAIN_bphnoss3vc9lerbc.seg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/whoosh_index/MAIN_fg0vrkgnnev80x53.seg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/whoosh_index/MAIN_j1tfwzf7bjh6stsf.seg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test5/whoosh_index/_MAIN_3.toc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test4/booktest/middleware.py" beforeDir="false" afterPath="$PROJECT_DIR$/../test4/booktest/middleware.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test5/booktest/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/../test5/booktest/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test5/booktest/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/../test5/booktest/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test5/booktest/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/../test5/booktest/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test5/booktest/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/../test5/booktest/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test5/test5/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/../test5/test5/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test5/test5/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/../test5/test5/urls.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-60534504">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="py" value="15" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Python" value="15" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="Django Console" value="481" />
+          <entry key="dummy" value="1" />
+          <entry key="py" value="1726" />
+          <entry key="py@TestDRF" value="8" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CommandLine" value="8" />
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="Python" value="2207" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/drfapp/serializer.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="616">
+              <caret line="26" column="11" lean-forward="true" selection-start-line="26" selection-start-column="11" selection-end-line="26" selection-end-column="11" />
+              <folding>
+                <element signature="e#0#38#0" expanded="true" />
+                <marker date="1541137118000" expanded="true" signature="122:127" ph="..." />
+                <marker date="1541137118000" expanded="true" signature="122:279" ph="..." />
+                <marker date="1541137118000" expanded="true" signature="682:687" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/drfapp/models.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="540">
+              <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+              <folding>
+                <marker date="1541124401000" expanded="true" signature="118:123" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TestDRF/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="544">
+              <caret line="19" column="20" lean-forward="true" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/drfapp/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="82">
+              <caret line="60" lean-forward="true" selection-start-line="60" selection-end-line="60" />
+              <folding>
+                <element signature="e#0#35#0" expanded="true" />
+                <marker date="1541141802000" expanded="true" signature="460:461" ph="..." />
+                <marker date="1541141802000" expanded="true" signature="1105:1110" ph="..." />
+                <marker date="1541141802000" expanded="true" signature="1618:1628" ph="..." />
+                <marker date="1541141802000" expanded="true" signature="1618:1632" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/.virtualenvs/h3_django/lib/python3.5/site-packages/rest_framework/authentication.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/drfapp/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="5" column="36" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
+              <folding>
+                <element signature="e#0#32#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/.virtualenvs/h3_django/lib/python3.5/site-packages/rest_framework/serializers.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="36">
+              <caret line="563" column="8" selection-start-line="563" selection-start-column="8" selection-end-line="563" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/TestDRF/settings.py" />
+        <option value="$PROJECT_DIR$/drfapp/models.py" />
+        <option value="$PROJECT_DIR$/drfapp/url.py" />
+        <option value="$PROJECT_DIR$/drfapp/serializer.py" />
+        <option value="$PROJECT_DIR$/TestDRF/urls.py" />
+        <option value="$PROJECT_DIR$/drfapp/urls.py" />
+        <option value="$PROJECT_DIR$/drfapp/views.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="y" value="247" />
+    <option name="width" value="1280" />
+    <option name="height" value="712" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>AngularJS</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="TestDRF" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TestDRF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TestDRF" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TestDRF" type="462c0819:PsiDirectoryNode" />
+              <item name="drfapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TestDRF" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TestDRF" type="462c0819:PsiDirectoryNode" />
+              <item name="drfapp" type="462c0819:PsiDirectoryNode" />
+              <item name="migrations" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TestDRF" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TestDRF" type="462c0819:PsiDirectoryNode" />
+              <item name="TestDRF" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="TestDRF" type="Python.DjangoServer" factoryName="Django server">
+      <module name="TestDRF" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="049848f0-54f1-4804-b633-a84760c8c62f" name="Default Changelist" comment="" />
+      <created>1541123597568</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1541123597568</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.20516963" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="manage.py@TestDRF" order="0" sideWeight="0.49919224" weight="0.46750525" />
+      <window_info anchor="bottom" id="Database Changes" order="1" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="2" sideWeight="0.49919224" weight="0.6278826" />
+      <window_info anchor="bottom" id="Event Log" order="3" sideWeight="0.50080776" side_tool="true" weight="0.43815514" />
+      <window_info anchor="bottom" id="Version Control" order="4" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Console" order="5" sideWeight="0.49919224" weight="0.33962265" />
+      <window_info anchor="bottom" id="Docker" order="6" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="7" />
+      <window_info anchor="bottom" id="Find" order="8" />
+      <window_info anchor="bottom" id="Run" order="9" />
+      <window_info anchor="bottom" id="Debug" order="10" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="11" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="12" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="13" />
+      <window_info anchor="right" id="Database" order="0" />
+      <window_info anchor="right" id="SciView" order="1" />
+      <window_info anchor="right" id="Commander" order="2" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="3" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="4" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.20516963" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="manage.py@TestDRF" order="0" sideWeight="0.49919224" weight="0.46750525" />
+      <window_info anchor="bottom" id="Database Changes" order="1" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="2" sideWeight="0.49919224" weight="0.6278826" />
+      <window_info anchor="bottom" id="Event Log" order="3" sideWeight="0.50080776" side_tool="true" weight="0.43815514" />
+      <window_info anchor="bottom" id="Version Control" order="4" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Console" order="5" sideWeight="0.49919224" weight="0.33962265" />
+      <window_info anchor="bottom" id="Docker" order="6" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="7" />
+      <window_info anchor="bottom" id="Find" order="8" />
+      <window_info anchor="bottom" id="Run" order="9" />
+      <window_info anchor="bottom" id="Debug" order="10" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="11" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="12" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="13" />
+      <window_info anchor="right" id="Database" order="0" />
+      <window_info anchor="right" id="SciView" order="1" />
+      <window_info anchor="right" id="Commander" order="2" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="3" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="4" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/drfapp/apps.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestDRF/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="274">
+          <caret line="121" column="6" lean-forward="true" selection-start-line="121" selection-start-column="6" selection-end-line="121" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.virtualenvs/h3_django/lib/python3.5/site-packages/django/core/serializers/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="246">
+          <caret line="122" column="29" lean-forward="true" selection-start-line="122" selection-start-column="23" selection-end-line="122" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.virtualenvs/h3_django/lib/python3.5/site-packages/django/http/response.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="301">
+          <caret line="519" column="8" selection-start-line="519" selection-start-column="8" selection-end-line="519" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.virtualenvs/h3_django/lib/python3.5/site-packages/django/db/models/query.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="385" column="29" selection-start-line="385" selection-start-column="21" selection-end-line="385" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestDRF/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="19" column="20" lean-forward="true" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/drfapp/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+          <folding>
+            <marker date="1541124401000" expanded="true" signature="118:123" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/drfapp/serializer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="616">
+          <caret line="26" column="11" lean-forward="true" selection-start-line="26" selection-start-column="11" selection-end-line="26" selection-end-column="11" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+            <marker date="1541137118000" expanded="true" signature="122:127" ph="..." />
+            <marker date="1541137118000" expanded="true" signature="122:279" ph="..." />
+            <marker date="1541137118000" expanded="true" signature="682:687" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.virtualenvs/h3_django/lib/python3.5/site-packages/rest_framework/authentication.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/.virtualenvs/h3_django/lib/python3.5/site-packages/rest_framework/serializers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="563" column="8" selection-start-line="563" selection-start-column="8" selection-end-line="563" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/drfapp/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="5" column="36" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/drfapp/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="82">
+          <caret line="60" lean-forward="true" selection-start-line="60" selection-end-line="60" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+            <marker date="1541141802000" expanded="true" signature="460:461" ph="..." />
+            <marker date="1541141802000" expanded="true" signature="1105:1110" ph="..." />
+            <marker date="1541141802000" expanded="true" signature="1618:1628" ph="..." />
+            <marker date="1541141802000" expanded="true" signature="1618:1632" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

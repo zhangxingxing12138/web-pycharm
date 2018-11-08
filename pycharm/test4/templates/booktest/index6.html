@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>模板转义</title>
+</head>
+<body>
+
+{#默认是转义的#}
+{{ ctx|escape }}
+
+{##取消转义#}
+
+{{ ctx|safe }}
+
+{##段落取消转义#}
+
+{% autoescape off %}
+
+    {{ ctx }}
+
+{% endautoescape %}
+{##硬编码 默认是非转义#}
+{{ data|default:'<h1>老王</h1>' }}
+
+{##硬编码 转义#}
+
+{{ data|default:'&lt;h1&gt;老王&lt;/h1&gt;' }}<br>
+
+{##特殊#}
+{{ data|default:'&amp;lt;h1&amp;gt;老王&amp;lt;/h1&amp;gt;' }}
+
+
+</body>
+</html>

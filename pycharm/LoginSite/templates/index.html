@@ -1,0 +1,9 @@
+{% extends 'base.html' %}
+{% block title %}主页{% endblock %}
+{% block content %}
+    {% if is_login %}
+        <h1>欢迎回来！{{ username }}</h1>
+    {% else %}
+        <h1>哈哈</h1>
+    {% endif %}
+{% endblock %}

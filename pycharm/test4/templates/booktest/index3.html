@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>过滤器</title>
+</head>
+<body>
+
+
+默认过滤器:{{ data|default:'这是默认值' }}<br>
+长度过滤器:{{ list|length }}
+时间过滤器:
+<ul>
+    {% for book in list %}
+
+        <li>{{ book.btitle }}----
+            {{ book.bpub_date|date:'Y年m月d H:m:s' }}</li>
+
+    {% endfor %}
+
+</ul>
+
+<ul>
+    {% for book in list %}
+        {% if forloop.counter|divisibleby:3 %}
+            <li style="background-color: red">{{ book.btitle }}</li>
+        {% else %}
+            <li style="background-color: green">{{ book.btitle }}</li>
+        {% endif %}
+    {% endfor %}
+
+
+</ul>
+
+{#自定义过滤器#}
+
+<ul>
+    {% load filters %}
+    {% for book in list %}
+        {% if forloop.counter|mod:3 %}
+            <li style="background-color: red">{{ book.btitle }}</li>
+        {% else %}
+            <li style="background-color: green">{{ book.btitle }}</li>
+        {% endif %}
+    {% endfor %}
+
+    {% comment %}
+dddsah
+dhkasjh
+dashkjh
+dsajldhas
+dashhd
+
+{% endcomment %}
+
+</ul>
+{#这是注释#}
+{# d打哈哈哈 #}
+
+
+</body>
+</html>

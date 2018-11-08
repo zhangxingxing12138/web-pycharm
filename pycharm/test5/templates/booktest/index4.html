@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>富文本</title>
+</head>
+<body>
+
+{% for good in list %}
+    {% autoescape off %}
+        {{ good.gcontent }}
+    {% endautoescape %}
+
+
+    {{ good.gcontent|safe }}
+{% endfor %}
+
+</body>
+</html>
